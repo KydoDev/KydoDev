@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
         Currently working in MixedReality thema.<br>
         Open to collaborating on interesting and innovative projects.<br>
         I’m interested in MixedReality, IoT, Blockchain, Backend and database<br>
-        I’m looking to collaborate on MixedReality prokects or create new BU for MIxedReality or new system/project of MIxedReality from scratch<br>
+        I’m looking to collaborate on MixedReality projects or create new BU for MIxedReality or new system/project of MIxedReality from scratch<br>
         How to reach me ... <br>
     </i><br>
     <a href="https://www.linkedin.com/in/libero-bitondi/">
