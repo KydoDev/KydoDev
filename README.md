@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm KydoDev.<br>
-        Currently working in MixedReality thema.<br>
+        Currently working in QuestPro Applications.<br>
         Open to collaborating on interesting and innovative projects.<br>
         I’m interested in MixedReality, IoT, Blockchain, Backend and database<br>
         I’m looking to collaborate on MixedReality projects or create new BU for MIxedReality or new system/project of MIxedReality from scratch<br>
@@ -43,9 +43,10 @@ You can click the Preview link to take a look at your changes.
 
 ### Technologies & Frameworks
 [![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/kydodev)
+[![Babylon.Js](https://img.shields.io/badge/babylonjs-black?style=for-the-badge&logo=babylonjs)](https://github.com/kydodev)
+[![Three.Js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js)](https://github.com/kydodev)
 [![.NET](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.NET)](https://github.com/kydodev)
 [![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/kydodev)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/kydodev)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/kydodev)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/kydodev)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/kydodev)
