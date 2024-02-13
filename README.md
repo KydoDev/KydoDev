@@ -5,25 +5,38 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="center">
+<p>
     <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm KydoDev.<br>
-        Currently working in QuestPro Applications.<br>
-        Open to collaborating on interesting and innovative projects.<br>
-        I’m interested in MixedReality, IoT, Blockchain and Backend <br>
-        I’m looking to collaborate on MixedReality projects or create new BU for MIxedReality or new system/project of MIxedReality<br>
-        How to reach me ... <br>
-    </i><br>
-    <a href="https://www.linkedin.com/in/libero-bitondi/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="https://www.kaggle.com/">
-        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
-    </a>
-    <a href="https://leetcode.com/kydodev">
-        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
-    </a>
+    
+## Hi there! 👋 I'm KydoDev.
+
+I am a passionate developer currently contributing my skills at QuestPro Applications. With a keen interest in cutting-edge technologies, I specialize in Mixed Reality, IoT, Blockchain, and Backend development.
+
+### 💼 Work
+
+- **Current Position:** Software Developer at QuestPro Applications.
+- **Expertise:** Mixed Reality, IoT, Blockchain, Backend Development.
+
+### 🚀 Open for Collaboration
+
+I am open to collaborating on exciting and innovative projects. Whether it's in the realm of Mixed Reality or other emerging technologies, I'm always eager to contribute to projects that push boundaries.
+
+### 🌐 What I'm Looking For
+
+I'm actively seeking opportunities to collaborate on Mixed Reality projects or to initiate new business units focused on Mixed Reality. Additionally, I'm interested in exploring new systems or projects within the Mixed Reality space.
+
+How to reach me ...
+
+<br>
+<a href="https://www.linkedin.com/in/libero-bitondi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="https://www.kaggle.com/">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
+</a>
+<a href="https://leetcode.com/kydodev">
+    <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
+</a>
 
 </p>
 
