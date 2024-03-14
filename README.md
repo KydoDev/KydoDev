@@ -27,17 +27,6 @@ I'm actively seeking opportunities to collaborate on Mixed Reality projects or t
 
 How to reach me ...
 
-<br>
-<a href="https://www.linkedin.com/in/libero-bitondi/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-</a>
-<a href="https://www.kaggle.com/">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
-</a>
-<a href="https://leetcode.com/kydodev">
-    <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
-</a>
-
 </p>
 
 ![GitHub metrics](https://metrics.lecoq.io/KydoDev)  
