@@ -10,12 +10,12 @@ You can click the Preview link to take a look at your changes.
     
 ## Hi there! 👋 I'm KydoDev.
 
-I am a passionate developer currently contributing my skills at QuestPro Applications. With a keen interest in cutting-edge technologies, I specialize in Mixed Reality, IoT, Blockchain, and Backend development.
+I am a passionate developer currently contributing my skills at QuestPro Applications. With a keen interest in cutting-edge technologies, I specialize in Mixed Reality, IoT, and Backend development.
 
 ### 💼 Work
 
-- **Current Position:** Software Developer at QuestPro Applications.
-- **Expertise:** Mixed Reality, IoT, Blockchain, Backend Development.
+- **Current Position:** MIxed Reality Solutions Architect.
+- **Expertise:** Mixed Reality, IoT, Backend Development.
 
 ### 🚀 Open for Collaboration
 
@@ -23,9 +23,7 @@ I am open to collaborating on exciting and innovative projects. Whether it's in 
 
 ### 🌐 What I'm Looking For
 
-I'm actively seeking opportunities to collaborate on Mixed Reality projects or to initiate new business units focused on Mixed Reality. Additionally, I'm interested in exploring new systems or projects within the Mixed Reality space.
-
-How to reach me ...
+I'm actively seeking opportunities to collaborate on Mixed Reality projects.
 
 </p>
 
