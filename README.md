@@ -27,8 +27,6 @@ I'm actively seeking opportunities to collaborate on Mixed Reality projects.
 
 </p>
 
-![GitHub metrics](https://metrics.lecoq.io/KydoDev)  
-
 ### Languages
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/kydodev)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/kydodev)
@@ -56,9 +54,6 @@ I'm actively seeking opportunities to collaborate on Mixed Reality projects.
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/kydodev)
 
 <details>
-
-
-
 <p align="center">
   <a href="https://github.com/kydodev">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kydodev&theme=transparent" />
@@ -69,10 +64,6 @@ I'm actively seeking opportunities to collaborate on Mixed Reality projects.
   <a href="https://github.com/kydodev">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kydodev&theme=transparent" />
   </a>
-  <a href="https://github.com/kydodev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kydodev&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
-</p>
 </details>
 
 <p align="center">
